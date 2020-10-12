@@ -6,7 +6,6 @@ A Social Media web-application where users can create various groups. They can c
 
 ## Core features
 
-* Used Django framework to build a Social Media like application where user can create a various group.
 * Users can create a post on the groups, Users can also leave and join the groups.
 * Implemented user-authentication (register, login, logout) from scratch.
 * Implemented features like creating, editing, deleting a post.
