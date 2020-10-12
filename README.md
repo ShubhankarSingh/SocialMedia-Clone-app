@@ -1,4 +1,4 @@
-# SocialMedia-Clone-app
+# SimpleSocial
 
 ## Project Description
 
