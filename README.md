@@ -9,3 +9,10 @@ A Social Media web-application where users can create various groups. They can c
 * Users can create a post on the groups, Users can also leave and join the groups.
 * Implemented user-authentication (register, login, logout) from scratch.
 * Implemented features like creating, editing, deleting a post.
+
+## Technologies Used
+
+* Django 1.11
+* HTML5
+* CSS3
+* Bootstrap 3
